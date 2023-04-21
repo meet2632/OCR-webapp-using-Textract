@@ -1,0 +1,6 @@
+Flask==2.2.3
+Flask-Session==0.4.0
+boto3==1.26.100
+botocore==1.29.100
+Werkzeug==2.2.2
+trp==0.1.6a1
