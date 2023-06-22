@@ -15,7 +15,7 @@ Optical Character Recognition WebApp that allows user to upload their document f
 
 1. Create AWS Account, and apply for free tier 12 months subscription using Card details (0 fees to be paid).
 
-2. Create a bucket 
+2. `Create a bucket` 
    
     • Name the bucket
 
@@ -33,9 +33,9 @@ Optical Character Recognition WebApp that allows user to upload their document f
 
     • Edit and Grant following permission
 
-        1) Bucket Owner - Objects (List, Write), Bucket ACL (Read, Write)
+        1) `Bucket Owner` - Objects (List, Write), Bucket ACL (Read, Write)
     
-        2) S3 Log delivery group - Bucket ACL (Write)
+        2) `S3 Log delivery group` - Bucket ACL (Write)
     
     • Save settings
 
@@ -49,7 +49,7 @@ Optical Character Recognition WebApp that allows user to upload their document f
 
     • Under Permissions policies, search "AmazonS3FullAccess" and "AmazonTextractFullAccess" and check right beside that policies to give to the user.
 
-    • Create User
+    • `Create User`
 
     • Now go to Security Credentials after creating user, and create new Access SSH key by scrolling below.
 
@@ -65,3 +65,9 @@ Optical Character Recognition WebApp that allows user to upload their document f
 
 ## Snapshots
 
+### Webapp Layout
+
+![webapp-layout](https://github.com/meet2632/OCR-webapp-using-Textract/assets/80049664/c4f80d47-672d-47b9-b8ee-f762f0bdf5b3)
+### Extraction Proof
+
+![extraction-successful](https://github.com/meet2632/OCR-webapp-using-Textract/assets/80049664/08262699-b2a2-4309-9aae-3a4efdfde4b6)
