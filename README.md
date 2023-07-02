@@ -3,14 +3,20 @@
 Optical Character Recognition WebApp that allows user to upload their document for scanning and returns the extracted text from document to users on webpage.
 
 ## Tech Stack
+<p>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="amazonaws"/>
+</p>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-&nbsp&nbspAWS Textract  
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-&nbsp&nbspAWS Simple Storage Service (S3)  
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
+</p>
 
-• AWS Textract
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+</p>
 
-• AWS Simple Storage Service (S3) - Buckets
-
-• Python 
-
-• Flask
 ## Documentation
 
 1. Create AWS Account, and apply for free tier 12 months subscription using Card details (0 fees to be paid).
@@ -66,8 +72,7 @@ Optical Character Recognition WebApp that allows user to upload their document f
 ## Snapshots
 
 ### Webapp Layout
-
 ![webapp-layout](https://github.com/meet2632/OCR-webapp-using-Textract/assets/80049664/c4f80d47-672d-47b9-b8ee-f762f0bdf5b3)
-### Extraction Proof
 
+### Extraction Proof
 ![extraction-successful](https://github.com/meet2632/OCR-webapp-using-Textract/assets/80049664/08262699-b2a2-4309-9aae-3a4efdfde4b6)
